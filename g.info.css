@@ -1,0 +1,25 @@
+.container {
+  background-color: rgb(253, 237, 11);
+  flex-direction: row;
+}
+
+.container1 div {
+  border: 1px #ccc solid;
+  padding: 15px;
+}
+
+.box1 {
+  background-color: green;
+}
+
+.box2 {
+  background-color: blue;
+}
+
+.box3 {
+  background-color: green;
+}
+
+.box4 {
+  background-color: blue;
+}
